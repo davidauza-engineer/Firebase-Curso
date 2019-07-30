@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ly_titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/lbl_titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:text="@string/app_name"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ly_contenido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/txt_nombre"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:hint="Nombre"
+            android:inputType="text"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/txt_correo"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:hint="Correo"
+            android:inputType="textEmailAddress"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/txt_telefono"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:hint="Teléfono"
+            android:inputType="number"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/txt_cedula"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:hint="Cédula"
+            android:inputType="number"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/txt_tipo_sangre"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:hint="Tipo de Sangre"
+            android:inputType="text"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btn_guardar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:text="Guardar"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btn_siguiente"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorPrimary"
+            android:text="Siguiente"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</RelativeLayout>
