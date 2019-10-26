@@ -4,7 +4,7 @@
             "outputFile": "/Users/DavidAuza/StudioProjects/Shared Preferences David Auza/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
-                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/81b78e4f3b34abf8051f0514b7ad7730/res/values-es/values.xml",
+                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/76d21ebc621d614115297eee17707fc4/play-services-base-15.0.1/res/values-es/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/62c764b0364c714c66ff1b9ddad58091/res/values-es/values.xml",
+                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/91ced4a1ca3b840f804d1a5c4a54b7c6/play-services-basement-15.0.1/res/values-es/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/1988ef23276a6aa89fc3290223aae809/res/values-es/values-es.xml",
+                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/ce0e71dfb56074d45f4951e68d675ac7/support-compat-28.0.0/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/f3fcd9e50a56d91aec003c24b9b0813a/res/values-es/values-es.xml",
+                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/9e3b1e766e8342fbc0a6f14e3fb4ecaa/appcompat-v7-28.0.0/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

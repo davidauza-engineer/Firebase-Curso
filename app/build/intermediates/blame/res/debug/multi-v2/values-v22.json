@@ -4,7 +4,7 @@
             "outputFile": "/Users/DavidAuza/StudioProjects/Shared Preferences David Auza/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/f3fcd9e50a56d91aec003c24b9b0813a/res/values-v22/values-v22.xml",
+                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/9e3b1e766e8342fbc0a6f14e3fb4ecaa/appcompat-v7-28.0.0/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

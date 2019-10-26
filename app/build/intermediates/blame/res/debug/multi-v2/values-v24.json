@@ -4,7 +4,17 @@
             "outputFile": "/Users/DavidAuza/StudioProjects/Shared Preferences David Auza/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/412eee71e8eed1c99041ba53e0c28452/res/values-v24/values-v24.xml",
+                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/9e3b1e766e8342fbc0a6f14e3fb4ecaa/appcompat-v7-28.0.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/0084635bcf21cdc1f58bb9ddd30df9ad/support-media-compat-26.1.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
-                    }
-                },
-                {
-                    "source": "/Users/DavidAuza/.gradle/caches/transforms-2/files-2.1/f3fcd9e50a56d91aec003c24b9b0813a/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
                     }
                 }
             ]
